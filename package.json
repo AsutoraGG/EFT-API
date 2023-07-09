@@ -1,0 +1,20 @@
+{
+  "name": "get-some-info-for-tarkov",
+  "version": "1.0.0",
+  "description": "fuck",
+  "main": "index.mjs",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "chalk": "^5.3.0",
+    "fs-extra": "^11.1.1",
+    "got": "^13.0.0",
+    "lodash": "^4.17.21",
+    "pako": "^2.1.0"
+  }
+}
